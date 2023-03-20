@@ -1,0 +1,17 @@
+What is Java?/Java is a high-level Programming language and is platform-independent
+What are the features of Java?/OOP, inheritance, Encapsulation,Polymorphism, Abstraction
+How does Java enable High performance?/Java uses Just-In-Time compiler to enable high performance. It is used to convert the instruction into bytecodes.
+Name the JAVA IDE's/IntelliJ, NetBeans, and Visual Code
+What do you mean by Constructor?/When a new object is created in a program a constructor gets invoked corresponding to the class. 
+What is a Class?/All java codes are defined in a Class. It has variables and methods.
+What is an Object?/An instance of a class is called an object. the object has state and behavior.
+What is inheritance?/Inheritance means one class can extend to another class
+What is Encapsulation?/Protects the code from others
+Code Maintainability
+What is Polymorphism?/A single object can refer to the super-class or sub-class depending on the reference type which is called Polymorphism.
+What is Method Overriding?/Method name should be the same
+The argument should be the same
+Return type should also be the same
+What is Overloading?/Same method name
+Different argument types
+There may be different return types
